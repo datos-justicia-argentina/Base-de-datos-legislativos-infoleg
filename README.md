@@ -14,7 +14,7 @@ Este recurso contiene las leyes, decisiones administrativas, decretos, resolucio
 ###Base de datos legislativos Infoleg
 - **Nombre:** base_de_datos_legislativos_infoleg
 - **Descripción:** Base de documentos digitales legislativos: leyes, decisiones administrativas, decretos, resoluciones, disposiciones, acordadas y todo acto administrativo publicado en la primera sección del Boletín Oficial de la República Argentina desde mayo 1997 más la normativa referenciada.
-- **Formato:** CSV
+- **Formato:** TXT delimitado por tabulaciones
 - **Rango temporal:** 05/1997 a la fecha
 - **Fecha de Actualización:** 20/09/2016
 
