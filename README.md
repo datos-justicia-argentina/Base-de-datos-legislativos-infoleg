@@ -2,7 +2,7 @@
 Este recurso contiene las leyes, decisiones administrativas, decretos, resoluciones, disposiciones, acordadas y todo acto administrativo publicado en la primera sección del Boletín Oficial de la República Argentina desde mayo 1997 más la normativa referenciada.
 
 ##Características
-- **Fecha de Publicación:** dd/mm/aaaa
+- **Fecha de Publicación:** 05/09/2016
 - **Recurso:** base de datos legislativos Infoleg
 - **Tags o Etiquetas:** leyes, decisiones administrativas, decretos, resoluciones, disposiciones, acordadas, boletín oficial
 - **Organización:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Registro Nacional de Reincidencia.
