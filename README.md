@@ -10,10 +10,10 @@ Este recurso contiene las leyes, decisiones administrativas, decretos, resolucio
 - **Responsable:** Ministerio de Justicia y Derechos Humanos. Secretaría de Planificación Estratégica. Dirección Nacional del Sistema Argentino de Información Jurídica.
 - **Frecuencia de Actualización:** Mensual
 
-##Recursos
+##Recursos disponibles
 ###Base de datos legislativos Infoleg
-- **Nombre:** base-de-datos-legislativos-infoleg.txt
-- **Descripción:** Base de documentos digitales legislativos: leyes, decisiones administrativas, decretos, resoluciones, disposiciones, acordadas y todo acto administrativo publicado en la primera sección del Boletín Oficial de la República Argentina desde mayo 1997 más la normativa referenciada.
+- **Nombre del archivo:** base-de-datos-legislativos-infoleg.txt
+- **Descripción del contenido:** Base de documentos digitales legislativos: leyes, decisiones administrativas, decretos, resoluciones, disposiciones, acordadas y todo acto administrativo publicado en la primera sección del Boletín Oficial de la República Argentina desde mayo 1997 más la normativa referenciada.
 - **Formato:** TXT delimitado por tabulaciones
 - **Rango temporal:** 05/1997 a la fecha
 
