@@ -1,20 +1,36 @@
-#Base de datos legislativos Infoleg
+Base de datos legislativos Infoleg
+===========================================================
+
 Este recurso contiene las leyes, decisiones administrativas, decretos, resoluciones, disposiciones, acordadas y todo acto administrativo publicado en la primera sección del Boletín Oficial de la República Argentina desde mayo 1997 más la normativa referenciada.
 
-##Características
+Características
+---------------
+
 - **Fecha de Publicación:** 05/09/2016
+
 - **Recurso:** base de datos legislativos Infoleg
+
 - **Tags o Etiquetas:** leyes, decisiones administrativas, decretos, resoluciones, disposiciones, acordadas, boletín oficial
+
 - **Organización:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Registro Nacional de Reincidencia.
+
 - **Autor:** Ministerio de Justicia y Derechos Humanos. Secretaría de Planificación Estratégica. Dirección Nacional del Sistema Argentino de Información Jurídica.
+
 - **Responsable:** Ministerio de Justicia y Derechos Humanos. Secretaría de Planificación Estratégica. Dirección Nacional del Sistema Argentino de Información Jurídica.
+
 - **Frecuencia de Actualización:** Mensual
 
-##Recursos disponibles
+Recursos Disponibles
+--------------------
+
 ###Base de datos legislativos Infoleg
+
 - **Nombre del archivo:** base-de-datos-legislativos-infoleg.txt
+
 - **Descripción del contenido:** Base de documentos digitales legislativos: leyes, decisiones administrativas, decretos, resoluciones, disposiciones, acordadas y todo acto administrativo publicado en la primera sección del Boletín Oficial de la República Argentina desde mayo 1997 más la normativa referenciada.
+
 - **Formato:** TXT delimitado por tabulaciones
+
 - **Rango temporal:** 05/1997 a la fecha
 
 ###Campos del recurso
@@ -53,12 +69,14 @@ Este recurso contiene las leyes, decisiones administrativas, decretos, resolucio
 
 -   **modifica_a (entero):** Cantidad de normas a las que modifica/complementa la presente.
 
-
 ###Base de datos legislativos Infoleg modificatorias
 
 - **Nombre:** base-de-datos-legislativos-infoleg-modificatorias.txt
+
 - **Descripción:** Base de documentos digitales modificatorios: leyes, decisiones administrativas, decretos, resoluciones, disposiciones, acordadas y todo acto administrativo publicado en la primera sección del Boletín Oficial de la República Argentina desde mayo 1997 más la normativa referenciada.
+
 - **Formato:** TXT delimitado por tabulaciones
+
 - **Rango temporal:** 05/1997 a la fecha
 
 ###Campos del recurso
