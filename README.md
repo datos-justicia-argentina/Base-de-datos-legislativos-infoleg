@@ -55,12 +55,14 @@ Este recurso contiene las leyes, decisiones administrativas, decretos, resolucio
 
 
 ###Base de datos legislativos Infoleg modificatorias
+
 - **Nombre:** base-de-datos-legislativos-infoleg-modificatorias.txt
 - **Descripción:** Base de documentos digitales modificatorios: leyes, decisiones administrativas, decretos, resoluciones, disposiciones, acordadas y todo acto administrativo publicado en la primera sección del Boletín Oficial de la República Argentina desde mayo 1997 más la normativa referenciada.
 - **Formato:** TXT delimitado por tabulaciones
 - **Rango temporal:** 05/1997 a la fecha
 
 ###Campos del recurso
+
 -   **id_norma_modificatoria (entero):** Identificador de la norma modificatoria
 
 -   **id_norma_modificada (entero):** Identificador de la norma modificada
@@ -89,7 +91,7 @@ Este recurso contiene las leyes, decisiones administrativas, decretos, resolucio
 
 -   **Rango temporal:** 05/1997 a la fecha
 
-**Campos del recurso**
+###Campos del recurso
 
 -   **id_norma_modificada (entero):** Identificador de la Norma modificada
 
