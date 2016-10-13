@@ -39,7 +39,7 @@ Recursos Disponibles
 
 -   **id_norma (entero):** Identificador de la Norma
 
--   **tipo_norma (string):** Clasificación de la norma de acuerdo a la jerarquía normativa (ej. leyes, decisiones administrativas, decretos, etc.).
+-   **tipo_norma (string):** Clasificación de la norma de acuerdo a la jerarquía normativa (ej. leyes, decisiones administrativas, decretos, etc.)
 
 -   **numero_norma (string):** Número de la norma o S/N (sin número)
 
