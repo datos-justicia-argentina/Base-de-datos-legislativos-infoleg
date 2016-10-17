@@ -18,7 +18,7 @@ Características
 
 - **Responsable:** Ministerio de Justicia y Derechos Humanos. Secretaría de Planificación Estratégica. Dirección Nacional del Sistema Argentino de Información Jurídica
 
-- **Grupos:** Información Jurídica
+- **Grupo:** Información Jurídica
 
 - **Frecuencia de Actualización:** Mensual
 
