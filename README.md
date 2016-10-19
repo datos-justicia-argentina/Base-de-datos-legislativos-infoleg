@@ -8,8 +8,6 @@ Características
 
 - **Fecha de Publicación:** 05/09/2016
 
-- **Recurso:** base de datos legislativos Infoleg
-
 - **Tags o Etiquetas:** leyes, decisiones administrativas, decretos, resoluciones, disposiciones, acordadas, boletín oficial
 
 - **Organización:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Registro Nacional de Reincidencia
