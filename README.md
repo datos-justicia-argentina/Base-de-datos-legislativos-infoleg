@@ -1,7 +1,7 @@
 Base de datos legislativos Infoleg
 ===========================================================
 
-Este recurso contiene las leyes, decisiones administrativas, decretos, resoluciones, disposiciones, acordadas y todo acto administrativo publicado en la primera sección del Boletín Oficial de la República Argentina desde mayo 1997 más la normativa referenciada.
+Este recurso contiene las leyes, decisiones administrativas, decretos, resoluciones, disposiciones, acordadas y todo acto administrativo publicado en la primera sección del Boletín Oficial de la República Argentina desde mayo 1997 más la normativa referenciada. La información se actualiza diariamente y las consultas están disponibles en [Infoleg](http://www.infoleg.gob.ar/).
 
 Características
 ---------------
@@ -128,3 +128,4 @@ Recursos disponibles
 - **titulo_sumario (string):** Tema genérico que trata la norma
 
 - **titulo_resumido (string):** Tema específico que trata la norma
+
