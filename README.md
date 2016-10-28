@@ -43,7 +43,7 @@ Recursos disponibles
 
 - **clase_norma (string):** Atributo complementario del tipo de norma (ej. Comunicaciones A B C, Resoluciones Conjuntas, etc.)
 
-- **organismo_emisor (string):** Organismo emisor de la norma
+- **dependencia (string):** Organismo emisor de la norma
 
 - **fecha (fecha):** Fecha que se sancionó la ley o se emitió el acto administrativo
 
@@ -91,7 +91,7 @@ Recursos disponibles
 
 - **clase_norma (string):** Atributo complementario del tipo de norma (ej. Comunicaciones A B C, Resoluciones Conjuntas, etc.)
 
-- **organismo_emisor (string):** Organismo emisor de la norma
+- **dependencia (string):** Organismo emisor de la norma
 
 - **fecha_publicacion (fecha):** Fecha del Boletín Oficial (BO) donde se publicó la norma
 
@@ -121,7 +121,7 @@ Recursos disponibles
 
 - **clase_norma (string):** Atributo complementario del tipo de norma (ej. Comunicaciones A B C, Resoluciones Conjuntas, etc.)
 
-- **organismo_emisor (string):** Organismo emisor de la norma
+- **dependencia (string):** Organismo emisor de la norma
 
 - **fecha_publicacion (fecha):** Fecha del Boletín Oficial (BO) donde se publicó la norma
 
