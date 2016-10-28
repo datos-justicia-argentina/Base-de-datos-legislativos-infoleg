@@ -69,36 +69,6 @@ Recursos disponibles
 
 - **modifica_a (entero):** Cantidad de normas a las que modifica/complementa la presente
 
-### Base de datos legislativos Infoleg modificatorias
-
-- **Nombre:** base-de-datos-legislativos-infoleg-modificatorias.txt
-
-- **Descripción:** Base de documentos digitales modificatorios: leyes, decisiones administrativas, decretos, resoluciones, disposiciones, acordadas y todo acto administrativo publicado en la primera sección del Boletín Oficial de la República Argentina desde mayo 1997 más la normativa referenciada
-
-- **Formato:** TXT delimitado por tabulaciones
-
-- **Rango temporal:** 05/1997 a la fecha
-
-### Campos del recurso
-
-- **id_norma_modificatoria (entero):** Identificador de la norma modificatoria
-
-- **id_norma_modificada (entero):** Identificador de la norma modificada
-
-- **tipo_norma (string):** Clasificación de la norma de acuerdo a la jerarquía normativa (ej. leyes, decisiones administrativas, decretos, etc.)
-
-- **numero_norma (string):** Número de la norma o S/N (sin número)
-
-- **clase_norma (string):** Atributo complementario del tipo de norma (ej. Comunicaciones A B C, Resoluciones Conjuntas, etc.)
-
-- **dependencia (string):** Organismo emisor de la norma
-
-- **fecha_publicacion (fecha):** Fecha del Boletín Oficial (BO) donde se publicó la norma
-
-- **titulo_sumario (string):** Tema genérico que trata la norma
-
-- **titulo_resumido (string):** Tema específico que trata la norma
-
 ### Base de datos legislativos Infoleg modificadas
 
 - **Nombre:** base_de_datos_legislativos_infoleg_normas_modificadas
@@ -129,3 +99,32 @@ Recursos disponibles
 
 - **titulo_resumido (string):** Tema específico que trata la norma
 
+### Base de datos legislativos Infoleg modificatorias
+
+- **Nombre:** base-de-datos-legislativos-infoleg-modificatorias.txt
+
+- **Descripción:** Base de documentos digitales modificatorios: leyes, decisiones administrativas, decretos, resoluciones, disposiciones, acordadas y todo acto administrativo publicado en la primera sección del Boletín Oficial de la República Argentina desde mayo 1997 más la normativa referenciada
+
+- **Formato:** TXT delimitado por tabulaciones
+
+- **Rango temporal:** 05/1997 a la fecha
+
+### Campos del recurso
+
+- **id_norma_modificatoria (entero):** Identificador de la norma modificatoria
+
+- **id_norma_modificada (entero):** Identificador de la norma modificada
+
+- **tipo_norma (string):** Clasificación de la norma de acuerdo a la jerarquía normativa (ej. leyes, decisiones administrativas, decretos, etc.)
+
+- **numero_norma (string):** Número de la norma o S/N (sin número)
+
+- **clase_norma (string):** Atributo complementario del tipo de norma (ej. Comunicaciones A B C, Resoluciones Conjuntas, etc.)
+
+- **dependencia (string):** Organismo emisor de la norma
+
+- **fecha_publicacion (fecha):** Fecha del Boletín Oficial (BO) donde se publicó la norma
+
+- **titulo_sumario (string):** Tema genérico que trata la norma
+
+- **titulo_resumido (string):** Tema específico que trata la norma
