@@ -23,9 +23,9 @@ Características
 Recursos disponibles
 --------------------
 
-### Base de datos legislativos Infoleg
+### Base Infoleg de Normativa Nacional
 
-- **Nombre del archivo:** base-de-datos-legislativos-infoleg.txt
+- **Nombre del archivo:** base-infoleg-normativa-nacional.csv
 
 - **Descripción del contenido:** Base de documentos digitales normativos nacionales: leyes, decisiones administrativas, decretos, resoluciones, disposiciones, acordadas y todo acto administrativo publicado en la primera sección del Boletín Oficial de la República Argentina desde mayo 1997 más la normativa referenciada
 
@@ -43,7 +43,7 @@ Recursos disponibles
 
 - **clase_norma (string):** Atributo complementario del tipo de norma (ej. Comunicaciones A B C, Resoluciones Conjuntas, etc.)
 
-- **dependencia (string):** Organismo emisor de la norma
+- **organismo_origen (string):** Organismo emisor de la norma
 
 - **fecha (fecha):** Fecha que se sancionó la ley o se emitió el acto administrativo
 
@@ -69,13 +69,13 @@ Recursos disponibles
 
 - **modifica_a (entero):** Cantidad de normas a las que modifica/complementa la presente
 
-### Base de datos legislativos Infoleg modificadas
+### Base Complementaria Infoleg de Normas Modificadas
 
-- **Nombre:** base_de_datos_legislativos_infoleg_normas_modificadas
+- **Nombre:** base-complementaria-infoleg-normas_modificadas.csv
 
-- **Descripción:** Base de documentos digitales modificadas: leyes, decisiones administrativas, decretos, resoluciones, disposiciones, acordadas y todo acto administrativo publicado en la primera sección del Boletín Oficial de la República Argentina desde mayo 1997 más la normativa referenciada
+- **Descripción:** Base complementaria Infoleg con normas nacionales modificadas: leyes, decisiones administrativas, decretos, resoluciones, disposiciones, acordadas y todo acto administrativo publicado en la primera sección del Boletín Oficial de la República Argentina desde mayo 1997 más la normativa referenciada
 
-- **Formato:** TXT delimitado por tabulaciones
+- **Formato:** CSV delimitado por coma
 
 - **Rango temporal:** 05/1997 a la fecha
 
@@ -91,7 +91,7 @@ Recursos disponibles
 
 - **clase_norma (string):** Atributo complementario del tipo de norma (ej. Comunicaciones A B C, Resoluciones Conjuntas, etc.)
 
-- **dependencia (string):** Organismo emisor de la norma
+- **organismo_emisor (string):** Organismo emisor de la norma
 
 - **fecha_publicacion (fecha):** Fecha del Boletín Oficial (BO) donde se publicó la norma
 
@@ -99,13 +99,13 @@ Recursos disponibles
 
 - **titulo_resumido (string):** Tema específico que trata la norma
 
-### Base de datos legislativos Infoleg modificatorias
+### Base Complementaria Infoleg de Normas Modificatorias
 
-- **Nombre:** base-de-datos-legislativos-infoleg-modificatorias.txt
+- **Nombre:** base-complementaria-infoleg-normas-modificatorias.csv
 
-- **Descripción:** Base de documentos digitales modificatorios: leyes, decisiones administrativas, decretos, resoluciones, disposiciones, acordadas y todo acto administrativo publicado en la primera sección del Boletín Oficial de la República Argentina desde mayo 1997 más la normativa referenciada
+- **Descripción:** Base complementaria Infoleg con normas nacionales modificatorias: leyes, decisiones administrativas, decretos, resoluciones, disposiciones, acordadas y todo acto administrativo publicado en la primera sección del Boletín Oficial de la República Argentina desde mayo 1997 más la normativa referenciada
 
-- **Formato:** TXT delimitado por tabulaciones
+- **Formato:** CSV delimitado por coma
 
 - **Rango temporal:** 05/1997 a la fecha
 
@@ -121,7 +121,7 @@ Recursos disponibles
 
 - **clase_norma (string):** Atributo complementario del tipo de norma (ej. Comunicaciones A B C, Resoluciones Conjuntas, etc.)
 
-- **dependencia (string):** Organismo emisor de la norma
+- **organismo_emisor (string):** Organismo emisor de la norma
 
 - **fecha_publicacion (fecha):** Fecha del Boletín Oficial (BO) donde se publicó la norma
 
