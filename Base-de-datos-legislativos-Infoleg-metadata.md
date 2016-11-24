@@ -10,7 +10,7 @@ Características
 
 - **Tags o Etiquetas:** leyes, decisiones administrativas, decretos, resoluciones, disposiciones, acordadas, boletín oficial
 
-- **Organización:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Registro Nacional de Reincidencia
+- **Organización:** Ministerio de Justicia y Derechos Humanos. Secretaría de Planificación Estratégica. Dirección Nacional del Sistema Argentino de Información Jurídica
 
 - **Autor:** Ministerio de Justicia y Derechos Humanos. Secretaría de Planificación Estratégica. Dirección Nacional del Sistema Argentino de Información Jurídica
 
@@ -27,9 +27,9 @@ Recursos disponibles
 
 - **Nombre del archivo:** base-de-datos-legislativos-infoleg.txt
 
-- **Descripción del contenido:** Base de documentos digitales legislativos: leyes, decisiones administrativas, decretos, resoluciones, disposiciones, acordadas y todo acto administrativo publicado en la primera sección del Boletín Oficial de la República Argentina desde mayo 1997 más la normativa referenciada
+- **Descripción del contenido:** Base de documentos digitales normativos nacionales: leyes, decisiones administrativas, decretos, resoluciones, disposiciones, acordadas y todo acto administrativo publicado en la primera sección del Boletín Oficial de la República Argentina desde mayo 1997 más la normativa referenciada
 
-- **Formato:** TXT delimitado por tabulaciones
+- **Formato:** CSV delimitado por coma
 
 - **Rango temporal:** 05/1997 a la fecha
 
