@@ -45,11 +45,11 @@ Recursos disponibles
 
 - **organismo_origen (string):** Organismo emisor de la norma
 
-- **fecha (fecha):** Fecha que se sancionó la ley o se emitió el acto administrativo
+- **fecha_sancion (fecha):** Fecha que se sancionó la ley o se emitió el acto administrativo
 
 - **numero_boletin (entero):** Número de boletín donde se publicó la norma
 
-- **fecha_publicacion (fecha):** Fecha del Boletín Oficial (BO) donde se publicó la norma
+- **fecha_boletin (fecha):** Fecha del Boletín Oficial (BO) donde se publicó la norma
 
 - **pagina_boletin (entero):** Número de página del boletín
 
@@ -91,9 +91,9 @@ Recursos disponibles
 
 - **clase_norma (string):** Atributo complementario del tipo de norma (ej. Comunicaciones A B C, Resoluciones Conjuntas, etc.)
 
-- **organismo_emisor (string):** Organismo emisor de la norma
+- **organismo_origen (string):** Organismo emisor de la norma
 
-- **fecha_publicacion (fecha):** Fecha del Boletín Oficial (BO) donde se publicó la norma
+- **fecha_boletin (fecha):** Fecha del Boletín Oficial (BO) donde se publicó la norma
 
 - **titulo_sumario (string):** Tema genérico que trata la norma
 
@@ -121,9 +121,9 @@ Recursos disponibles
 
 - **clase_norma (string):** Atributo complementario del tipo de norma (ej. Comunicaciones A B C, Resoluciones Conjuntas, etc.)
 
-- **organismo_emisor (string):** Organismo emisor de la norma
+- **organismo_origen (string):** Organismo emisor de la norma
 
-- **fecha_publicacion (fecha):** Fecha del Boletín Oficial (BO) donde se publicó la norma
+- **fecha_boletin (fecha):** Fecha del Boletín Oficial (BO) donde se publicó la norma
 
 - **titulo_sumario (string):** Tema genérico que trata la norma
 
