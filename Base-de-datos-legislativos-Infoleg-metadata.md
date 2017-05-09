@@ -6,7 +6,7 @@ Este recurso contiene las leyes, decisiones administrativas, decretos, resolucio
 Características
 ---------------
 
-- **Fecha de Publicación:** 05/09/2016
+- **Fecha de Primera Publicación:** 05/09/2016
 
 - **Tags o Etiquetas:** leyes, decisiones administrativas, decretos, resoluciones, disposiciones, acordadas, boletín oficial
 
