@@ -29,9 +29,9 @@ Recursos disponibles
 
 - **Descripción del contenido:** Base de documentos digitales normativos nacionales: leyes, decisiones administrativas, decretos, resoluciones, disposiciones, acordadas y todo acto administrativo publicado en la primera sección del Boletín Oficial de la República Argentina desde mayo 1997 más la normativa referenciada
 
-- **Formato:** CSV delimitado por coma
+- **Formato:** CSV delimitado por comas, codificado en UTF-8
 
-- **Rango temporal:** 05/1997 a la fecha
+- **Rango temporal:** Listado actualizado a la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
@@ -75,9 +75,9 @@ Recursos disponibles
 
 - **Descripción:** Base complementaria Infoleg con normas nacionales modificadas: leyes, decisiones administrativas, decretos, resoluciones, disposiciones, acordadas y todo acto administrativo publicado en la primera sección del Boletín Oficial de la República Argentina desde mayo 1997 más la normativa referenciada
 
-- **Formato:** CSV delimitado por coma
+- **Formato:** CSV delimitado por comas, codificado en UTF-8
 
-- **Rango temporal:** 05/1997 a la fecha
+- **Rango temporal:** Listado actualizado a la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
@@ -105,9 +105,9 @@ Recursos disponibles
 
 - **Descripción:** Base complementaria Infoleg con normas nacionales modificatorias: leyes, decisiones administrativas, decretos, resoluciones, disposiciones, acordadas y todo acto administrativo publicado en la primera sección del Boletín Oficial de la República Argentina desde mayo 1997 más la normativa referenciada
 
-- **Formato:** CSV delimitado por coma
+- **Formato:** CSV delimitado por comas, codificado en UTF-8
 
-- **Rango temporal:** 05/1997 a la fecha
+- **Rango temporal:** Listado actualizado a la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
