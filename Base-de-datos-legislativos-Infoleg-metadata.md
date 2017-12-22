@@ -28,7 +28,7 @@ Recursos disponibles
 - **Nombre del archivo:** base-infoleg-normativa-nacional.csv
 
 - **Descripción del contenido:** base de documentos digitales normativos nacionales: leyes, decisiones administrativas, decretos, resoluciones, disposiciones, acordadas y todo acto administrativo publicado en la primera sección del Boletín Oficial de la República Argentina desde mayo 1997 más la normativa referenciada. La información se actualiza diariamente y las consultas actualizadas están disponibles en Infoleg <http://www.infoleg.gob.ar/> . 
-Aclaración acerca de los Decretos de Necesidad y Urgencia: los DNU que figuran en este registro son todos los que fueron publicados en el Boletín Oficial y que fueron dictados conforme el artículo 99 inc. 3 de la Constitución Nacional, en acuerdo general de ministros.
+Los DNU que figuran en este registro son todos los que fueron publicados en el Boletín Oficial y que fueron dictados conforme el artículo 99 inc. 3 de la Constitución Nacional, en acuerdo general de ministros.
 
 
 - **Formato:** CSV delimitado por comas, codificado en UTF-8
