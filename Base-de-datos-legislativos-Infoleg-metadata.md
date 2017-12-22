@@ -128,3 +128,7 @@ Recursos disponibles
 - **titulo_sumario (string):** tema genérico que trata la norma
 
 - **titulo_resumido (string):** tema específico que trata la norma
+
+### Notas
+
+Aclaración acerca de los Decretos de Necesidad y Urgencia: los DNU que figuran en este registro son todos los que fueron publicados en el Boletín Oficial y que fueron dictados conforme el artículo 99 inc. 3 de la Constitución Nacional, en acuerdo general de ministros.
