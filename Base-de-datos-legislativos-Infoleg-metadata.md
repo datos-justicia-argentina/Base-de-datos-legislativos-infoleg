@@ -133,7 +133,7 @@ Los DNU que figuran en este registro son todos los que fueron publicados en el B
 
 - **titulo_resumido (string):** tema específico que trata la norma
 
-Notas:
+Notas
 ------
 Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 986 del Ministerio de Justicia y Derechos Humanos](http://datos.jus.gob.ar/resoluciones/RESOL-2016-986-E-APN-MJ.pdf), del 26 de Octubre de 2016.
 
