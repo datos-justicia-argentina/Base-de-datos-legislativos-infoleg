@@ -35,7 +35,7 @@ Los DNU que figuran en este registro son todos los que fueron publicados en el B
 
 - **Formato:** CSV delimitado por comas, codificado en UTF-8
 
-- **Rango temporal:** listado actualizado a la fecha consignada como "Datos actualizados al"
+- **Rango temporal:** base Infoleg de Normativa Nacional desde mayo de 1997 hasta la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
@@ -132,4 +132,8 @@ Los DNU que figuran en este registro son todos los que fueron publicados en el B
 - **titulo_sumario (string):** tema genérico que trata la norma
 
 - **titulo_resumido (string):** tema específico que trata la norma
+
+Notas:
+------
+Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 986 del Ministerio de Justicia y Derechos Humanos](http://datos.jus.gob.ar/resoluciones/RESOL-2016-986-E-APN-MJ.pdf), del 26 de Octubre de 2016.
 
