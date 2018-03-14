@@ -35,7 +35,7 @@ Los DNU que figuran en este registro son todos los que fueron publicados en el B
 
 - **Formato:** CSV delimitado por comas, codificado en UTF-8
 
-- **Rango temporal:** base Infoleg de Normativa Nacional desde mayo de 1997 hasta la fecha consignada como "Datos actualizados al"
+- **Rango temporal:** base Infoleg de normativa nacional desde mayo de 1997 hasta la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
@@ -81,7 +81,7 @@ Los DNU que figuran en este registro son todos los que fueron publicados en el B
 
 - **Formato:** CSV delimitado por comas, codificado en UTF-8
 
-- **Rango temporal:** listado actualizado a la fecha consignada como "Datos actualizados al"
+- **Rango temporal:** base complementaria Infoleg de normas modificadas desde mayo de 1997 hasta la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
@@ -111,7 +111,7 @@ Los DNU que figuran en este registro son todos los que fueron publicados en el B
 
 - **Formato:** CSV delimitado por comas, codificado en UTF-8
 
-- **Rango temporal:** Listado actualizado a la fecha consignada como "Datos actualizados al"
+- **Rango temporal:** base complementaria Infoleg de normas modificatorias desde mayo de 1997 hasta la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
