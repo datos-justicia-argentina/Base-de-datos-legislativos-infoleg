@@ -25,15 +25,24 @@ Características
 Recursos disponibles
 --------------------
 
+### Base Infoleg de Normativa Nacional - Muestreo
+
+- **Nombre del archivo:** base-infoleg-normativa-nacional-muestreo.csv
+
+- **Descripción del contenido:** Muestreo de 1000 registros de la base de documentos digitales legislativos: leyes, decisiones administrativas, decretos, resoluciones, disposiciones, acordadas y todo acto administrativo publicado en la primera sección del Boletín Oficial de la República Argentina desde mayo 1997 más la normativa referenciada. Los datos completos están publicados en formato zip.
+
+- **Formato:** CSV delimitado por comas, codificado en UTF-8
+
+- **Rango temporal:** muestreo de la base Infoleg de normativa nacional en el período informado
+
 ### Base Infoleg de Normativa Nacional
 
-- **Nombre del archivo:** base-infoleg-normativa-nacional.csv
+- **Nombre del archivo:** base-infoleg-normativa-nacional.zip
 
 - **Descripción del contenido:** base de documentos digitales normativos nacionales: leyes, decisiones administrativas, decretos, resoluciones, disposiciones, acordadas y todo acto administrativo publicado en la primera sección del Boletín Oficial de la República Argentina desde mayo 1997 más la normativa referenciada. La información se actualiza diariamente y las consultas actualizadas están disponibles en Infoleg <http://www.infoleg.gob.ar/> . 
 Los DNU que figuran en este registro son todos los que fueron publicados en el Boletín Oficial y que fueron dictados conforme el artículo 99 inc. 3 de la Constitución Nacional, en acuerdo general de ministros.
 
-
-- **Formato:** CSV delimitado por comas, codificado en UTF-8
+- **Formato:** ZIP
 
 - **Rango temporal:** base Infoleg de normativa nacional desde mayo de 1997 hasta la fecha consignada como "Datos actualizados al"
 
@@ -73,13 +82,24 @@ Los DNU que figuran en este registro son todos los que fueron publicados en el B
 
 - **modifica_a (entero):** cantidad de normas a las que modifica/complementa la presente
 
+
+### Base Complementaria Infoleg de Normas Modificadas - Muestreo
+
+- **Nombre:** base-complementaria-infoleg-normas-modificadas-muestreo.csv
+
+- **Descripción:** Muestreo de 1000 registros de la base complementaria Infoleg con normas nacionales modificadas: leyes, decisiones administrativas, decretos, resoluciones, disposiciones, acordadas y todo acto administrativo publicado en la primera sección del Boletín Oficial de la República Argentina desde mayo 1997 más la normativa referenciada. Los datos completos están publicados en formato zip.
+
+- **Formato:** CSV delimitado por comas, codificado en UTF-8
+
+- **Rango temporal:** muestreo de la base complementaria Infoleg de normas modificadas en el período informado
+
 ### Base Complementaria Infoleg de Normas Modificadas
 
-- **Nombre:** base-complementaria-infoleg-normas-modificadas.csv
+- **Nombre:** base-complementaria-infoleg-normas-modificadas.zip
 
 - **Descripción:** base complementaria Infoleg con normas nacionales modificadas: leyes, decisiones administrativas, decretos, resoluciones, disposiciones, acordadas y todo acto administrativo publicado en la primera sección del Boletín Oficial de la República Argentina desde mayo 1997 más la normativa referenciada
 
-- **Formato:** CSV delimitado por comas, codificado en UTF-8
+- **Formato:** ZIP
 
 - **Rango temporal:** base complementaria Infoleg de normas modificadas desde mayo de 1997 hasta la fecha consignada como "Datos actualizados al"
 
@@ -103,13 +123,24 @@ Los DNU que figuran en este registro son todos los que fueron publicados en el B
 
 - **titulo_resumido (string):** tema específico que trata la norma
 
+
+### Base Complementaria Infoleg de Normas Modificatorias - Muestreo
+
+- **Nombre:** base-complementaria-infoleg-normas-modificatorias-muestreo.csv
+
+- **Descripción:** Muestreo de 1000 registros de la base complementaria Infoleg con normas nacionales modificatorias: leyes, decisiones administrativas, decretos, resoluciones, disposiciones, acordadas y todo acto administrativo publicado en la primera sección del Boletín Oficial de la República Argentina desde mayo 1997 más la normativa referenciada. Los datos completos están publicados en formato zip.
+
+- **Formato:** CSV delimitado por comas, codificado en UTF-8
+
+- **Rango temporal:** muetreo de la base complementaria Infoleg de normas modificatorias en el período informado
+
 ### Base Complementaria Infoleg de Normas Modificatorias
 
-- **Nombre:** base-complementaria-infoleg-normas-modificatorias.csv
+- **Nombre:** base-complementaria-infoleg-normas-modificatorias.zip
 
 - **Descripción:** base complementaria Infoleg con normas nacionales modificatorias: leyes, decisiones administrativas, decretos, resoluciones, disposiciones, acordadas y todo acto administrativo publicado en la primera sección del Boletín Oficial de la República Argentina desde mayo 1997 más la normativa referenciada
 
-- **Formato:** CSV delimitado por comas, codificado en UTF-8
+- **Formato:** ZIP
 
 - **Rango temporal:** base complementaria Infoleg de normas modificatorias desde mayo de 1997 hasta la fecha consignada como "Datos actualizados al"
 
