@@ -33,7 +33,7 @@ Recursos disponibles
 
 - **Formato:** CSV delimitado por comas, codificado en UTF-8
 
-- **Rango temporal:** muestreo de la base Infoleg de normativa nacional en el período informado
+- **Rango temporal:** muestreo de la base Infoleg de normativa nacional informado hasta la fecha consignada como "Datos actualizados al"
 
 ### Base Infoleg de Normativa Nacional
 
@@ -91,7 +91,7 @@ Los DNU que figuran en este registro son todos los que fueron publicados en el B
 
 - **Formato:** CSV delimitado por comas, codificado en UTF-8
 
-- **Rango temporal:** muestreo de la base complementaria Infoleg de normas modificadas en el período informado
+- **Rango temporal:** muestreo de la base complementaria Infoleg de normas modificadas informado hasta la fecha consignada como "Datos actualizados al"
 
 ### Base Complementaria Infoleg de Normas Modificadas
 
@@ -132,7 +132,7 @@ Los DNU que figuran en este registro son todos los que fueron publicados en el B
 
 - **Formato:** CSV delimitado por comas, codificado en UTF-8
 
-- **Rango temporal:** muetreo de la base complementaria Infoleg de normas modificatorias en el período informado
+- **Rango temporal:** muetreo de la base complementaria Infoleg de normas modificatorias informado hasta la fecha consignada como "Datos actualizados al"
 
 ### Base Complementaria Infoleg de Normas Modificatorias
 
